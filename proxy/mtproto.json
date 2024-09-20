@@ -88,18 +88,6 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "taktip.ir.irhvacr.com.plusko.ir.moallem.sch.ir.majedalkazemi.com.i-rancommax.ir.taksetareh24.ir.nineweb.ir.m-ultiazmoon.ir.eng-ineeringtools.ir.dr-arjmand.ir.goldenfacee.ir.poolshomar.com.sk-electronic.co.ir.higer.co.dynotabinfo.ir.Nadicakeshomal.online",
-            "port": "443",
-            "secret": "3dpBFlW2hP6Hq_WOwiNeKBY=",
-            "name": "@ProxyMTProto|\ud83c\uddfa\ud83c\uddf8"
-        },
-        "link": "https:\/\/t.me\/proxy?server=taktip.ir.irhvacr.com.plusko.ir.moallem.sch.ir.majedalkazemi.com.i-rancommax.ir.taksetareh24.ir.nineweb.ir.m-ultiazmoon.ir.eng-ineeringtools.ir.dr-arjmand.ir.goldenfacee.ir.poolshomar.com.sk-electronic.co.ir.higer.co.dynotabinfo.ir.Nadicakeshomal.online&port=443&secret=3dpBFlW2hP6Hq_WOwiNeKBY=&@ProxyMTProto|\ud83c\uddfa\ud83c\uddf8"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
             "server": "cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.again_to_fight.everyone.i_am.the_internet.tenisoro-yoka.info.",
             "port": "7799",
             "secret": "eeRigzNJvXrFGRMCIMJdEA",
