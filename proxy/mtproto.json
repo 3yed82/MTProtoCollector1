@@ -4,24 +4,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "49.13.145.84",
+            "server": "23.88.51.230",
             "port": "443",
             "secret": "3QAAAAAAAAAAAAAAAAAAAAA=",
             "name": "@GlypeX|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=49.13.145.84&port=443&secret=3QAAAAAAAAAAAAAAAAAAAAA=&@GlypeX|\ud83c\udde9\ud83c\uddea"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "128.140.13.248",
-            "port": "443",
-            "secret": "3QAAAAAAAAAAAAAAAAAAAAA=",
-            "name": "@GlypeX|\ud83c\udde9\ud83c\uddea"
-        },
-        "link": "https:\/\/t.me\/proxy?server=128.140.13.248&port=443&secret=3QAAAAAAAAAAAAAAAAAAAAA=&@GlypeX|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=23.88.51.230&port=443&secret=3QAAAAAAAAAAAAAAAAAAAAA=&@GlypeX|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",
@@ -76,24 +64,24 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "116.202.197.53",
-            "port": "243",
-            "secret": "7gggggggggggggggggggggh6cWt0bHdpdWF2dnZxcXQ0eWJ2Z3ZpN3R5bzRoamw1eGdmdXZwZGY2b3RqaXljZ3dxYnltMnFhZC5vbmlvbg==",
-            "name": "@ProxyMTProto|\ud83c\udde9\ud83c\uddea"
+            "server": "adslcell.org.irancell.irancell_yo.want_to.clash_with.this.microsoft.com.there_is_no.place_nano.localhost.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.with_everyone.i_am.the_internet.spirancellirancell.remodeter.info",
+            "port": "8085",
+            "secret": "FgMBAgABAAH8AwOG4kw63Q",
+            "name": "@ProxyMTProto|\ud83c\uddf3\ud83c\uddf1"
         },
-        "link": "https:\/\/t.me\/proxy?server=116.202.197.53&port=243&secret=7gggggggggggggggggggggh6cWt0bHdpdWF2dnZxcXQ0eWJ2Z3ZpN3R5bzRoamw1eGdmdXZwZGY2b3RqaXljZ3dxYnltMnFhZC5vbmlvbg==&@ProxyMTProto|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=adslcell.org.irancell.irancell_yo.want_to.clash_with.this.microsoft.com.there_is_no.place_nano.localhost.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.with_everyone.i_am.the_internet.spirancellirancell.remodeter.info&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q&@ProxyMTProto|\ud83c\uddf3\ud83c\uddf1"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "138.201.17.238",
-            "port": "243",
-            "secret": "7gggggggggggggggggggggh6cWt0bHdpdWF2dnZxcXQ0eWJ2Z3ZpN3R5bzRoamw1eGdmdXZwZGY2b3RqaXljZ3dxYnltMnFhZC5vbmlvbg==",
-            "name": "@ProxyMTProto|\ud83c\udde9\ud83c\uddea"
+            "server": "172.233.46.5",
+            "port": "155",
+            "secret": "5mB7kIicxgcZ0hcMsoUZYgZQUgYBou-7tki_CVuDv4lg",
+            "name": "@ProxyMTProto|\ud83c\uddf3\ud83c\uddf1"
         },
-        "link": "https:\/\/t.me\/proxy?server=138.201.17.238&port=243&secret=7gggggggggggggggggggggh6cWt0bHdpdWF2dnZxcXQ0eWJ2Z3ZpN3R5bzRoamw1eGdmdXZwZGY2b3RqaXljZ3dxYnltMnFhZC5vbmlvbg==&@ProxyMTProto|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=172.233.46.5&port=155&secret=5mB7kIicxgcZ0hcMsoUZYgZQUgYBou-7tki_CVuDv4lg&@ProxyMTProto|\ud83c\uddf3\ud83c\uddf1"
     },
     {
         "scheme": "https",
@@ -235,9 +223,9 @@
             "server": "yo-no-yo.nhlfan.net",
             "port": "443",
             "secret": "3fQ1mpsyX_HR5QhN8OD3U3s",
-            "name": "@ProxyDaemi|\ud83c\udde9\ud83c\uddea"
+            "name": "@ProxyDaemi|\ud83c\uddee\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=yo-no-yo.nhlfan.net&port=443&secret=3fQ1mpsyX_HR5QhN8OD3U3s&@ProxyDaemi|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=yo-no-yo.nhlfan.net&port=443&secret=3fQ1mpsyX_HR5QhN8OD3U3s&@ProxyDaemi|\ud83c\uddee\ud83c\uddea"
     },
     {
         "scheme": "https",
