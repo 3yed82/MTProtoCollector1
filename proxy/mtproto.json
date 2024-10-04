@@ -28,18 +28,6 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "91.142.77.160",
-            "port": "443",
-            "secret": "7gAA8A8Pd1VV____9QBuLmktLS0tLS1pbi5hcHBjZW50ZXIubXMtLS0tLS0",
-            "name": "@Lion_MTProto|\ud83c\uddf7\ud83c\uddfa"
-        },
-        "link": "https:\/\/t.me\/proxy?server=91.142.77.160&port=443&secret=7gAA8A8Pd1VV____9QBuLmktLS0tLS1pbi5hcHBjZW50ZXIubXMtLS0tLS0&@Lion_MTProto|\ud83c\uddf7\ud83c\uddfa"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
             "server": "77.232.39.170",
             "port": "4045",
             "secret": "7gAA8A8Pd1VV____9QBuLmktLS0tLS1pbi5hcHBjZW50ZXIubXMtLS0tLS0=",
@@ -55,9 +43,9 @@
             "server": "asus.chatgbt.asusfastk556hperformece.laptopfroshielaskvn.taadalaho.info",
             "port": "443",
             "secret": "1603010200010001fc030386e24c3add",
-            "name": "@Lion_MTProto|\ud83c\uddf7\ud83c\uddfa"
+            "name": "@Lion_MTProto|\ud83c\uddea\ud83c\uddf8"
         },
-        "link": "https:\/\/t.me\/proxy?server=asus.chatgbt.asusfastk556hperformece.laptopfroshielaskvn.taadalaho.info&port=443&secret=1603010200010001fc030386e24c3add&@Lion_MTProto|\ud83c\uddf7\ud83c\uddfa"
+        "link": "https:\/\/t.me\/proxy?server=asus.chatgbt.asusfastk556hperformece.laptopfroshielaskvn.taadalaho.info&port=443&secret=1603010200010001fc030386e24c3add&@Lion_MTProto|\ud83c\uddea\ud83c\uddf8"
     },
     {
         "scheme": "https",
@@ -82,18 +70,6 @@
             "name": "@ProxyMTProto|\ud83c\uddfa\ud83c\uddf8"
         },
         "link": "https:\/\/t.me\/proxy?server=cafebyte.ir.remainingtime.ir.ask-qazvin.ir.bazaresaba.ir.elennar7.ir.khatam-sch.ir.tosan-ls.com.olyaclinic.com.iranmrcable.com.roban.ir.skechersmashad.com.shafashiraz.ir.drshimakamandi.com.arashjahani.com.ticafe.ir.arashnasiri.com.husseinifinance.online&port=443&secret=3dpBFlW2hP6Hq_WOwiNeKBY=&@ProxyMTProto|\ud83c\uddfa\ud83c\uddf8"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "ir-au.ir.adviehland.ir.keshtnet.ir.softleather98.ir.fereydoonkenar.ir.baaghcheh.com.taban-foolad.com.aveejeh.ir.kargadan.net.germaninvestcompany.com.misaghtalayieh.ir.14004.ir.vandadrack.ir.golnarshoping.ir.macropuff.ir.rafanco.ir.husseinifinance.online",
-            "port": "443",
-            "secret": "eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972",
-            "name": "@ProxyMTProto|\ud83c\uddfa\ud83c\uddf8"
-        },
-        "link": "https:\/\/t.me\/proxy?server=ir-au.ir.adviehland.ir.keshtnet.ir.softleather98.ir.fereydoonkenar.ir.baaghcheh.com.taban-foolad.com.aveejeh.ir.kargadan.net.germaninvestcompany.com.misaghtalayieh.ir.14004.ir.vandadrack.ir.golnarshoping.ir.macropuff.ir.rafanco.ir.husseinifinance.online&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972&@ProxyMTProto|\ud83c\uddfa\ud83c\uddf8"
     },
     {
         "scheme": "https",
@@ -151,9 +127,9 @@
             "server": "bashgah.toksmoks.info",
             "port": "443",
             "secret": "1603010200010001fc030386e24c3add",
-            "name": "@TelMTProto|\ud83c\uddf7\ud83c\uddfa"
+            "name": "@TelMTProto|\ud83c\uddea\ud83c\uddf8"
         },
-        "link": "https:\/\/t.me\/proxy?server=bashgah.toksmoks.info&port=443&secret=1603010200010001fc030386e24c3add&@TelMTProto|\ud83c\uddf7\ud83c\uddfa"
+        "link": "https:\/\/t.me\/proxy?server=bashgah.toksmoks.info&port=443&secret=1603010200010001fc030386e24c3add&@TelMTProto|\ud83c\uddea\ud83c\uddf8"
     },
     {
         "scheme": "https",
@@ -211,9 +187,9 @@
             "server": "yo-no-yo.nhlfan.net",
             "port": "443",
             "secret": "3fQ1mpsyX_HR5QhN8OD3U3s",
-            "name": "@ProxyDaemi|\ud83c\udde9\ud83c\uddea"
+            "name": "@ProxyDaemi|\ud83c\uddee\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=yo-no-yo.nhlfan.net&port=443&secret=3fQ1mpsyX_HR5QhN8OD3U3s&@ProxyDaemi|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=yo-no-yo.nhlfan.net&port=443&secret=3fQ1mpsyX_HR5QhN8OD3U3s&@ProxyDaemi|\ud83c\uddee\ud83c\uddea"
     },
     {
         "scheme": "https",
