@@ -16,12 +16,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "49.13.145.62",
+            "server": "49.13.145.61",
             "port": "443",
             "secret": "3QAAAAAAAAAAAAAAAAAAAAA=",
             "name": "@GlypeX|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=49.13.145.62&port=443&secret=3QAAAAAAAAAAAAAAAAAAAAA=&@GlypeX|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=49.13.145.61&port=443&secret=3QAAAAAAAAAAAAAAAAAAAAA=&@GlypeX|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",
@@ -34,6 +34,18 @@
             "name": "@GlypeX|\ud83c\uddeb\ud83c\uddf7"
         },
         "link": "https:\/\/t.me\/proxy?server=51.159.157.218&port=7743&secret=eedbe97246f57a3e90ccc1c3f25b8e15ef7777772e736974652e636f6d&@GlypeX|\ud83c\uddeb\ud83c\uddf7"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "bg.co.ir.karyabi-safir.ir.vshareei.com.arzaankala.ir.pooyasanat-proma.ir.nova-builder.com.artalumin.ir.irandaikin.ir.am7.ir.tvsam.ir.yufile.ir.pars-power.ir.baaghcheh.com.onlineresearch.ir.behtarinha.ir.aghighad.ir.seo2020.ir.dastresikaladigital.digital",
+            "port": "443",
+            "secret": "3dpBFlW2hP6Hq_WOwiNeKBY=",
+            "name": "@Lion_MTProto|\ud83c\udde9\ud83c\uddea"
+        },
+        "link": "https:\/\/t.me\/proxy?server=bg.co.ir.karyabi-safir.ir.vshareei.com.arzaankala.ir.pooyasanat-proma.ir.nova-builder.com.artalumin.ir.irandaikin.ir.am7.ir.tvsam.ir.yufile.ir.pars-power.ir.baaghcheh.com.onlineresearch.ir.behtarinha.ir.aghighad.ir.seo2020.ir.dastresikaladigital.digital&port=443&secret=3dpBFlW2hP6Hq_WOwiNeKBY=&@Lion_MTProto|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",
