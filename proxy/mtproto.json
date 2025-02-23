@@ -127,9 +127,9 @@
             "server": "clients.techsupporthub.info",
             "port": "443",
             "secret": "7sEul9Uuxh-JU67hQzcnHJV3d3cuY2xvdWRmbGFyZS5jb20=",
-            "name": "@TelMTProto|\ud83c\uddf3\ud83c\uddf1"
+            "name": "@TelMTProto|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=clients.techsupporthub.info&port=443&secret=7sEul9Uuxh-JU67hQzcnHJV3d3cuY2xvdWRmbGFyZS5jb20=&@TelMTProto|\ud83c\uddf3\ud83c\uddf1"
+        "link": "https:\/\/t.me\/proxy?server=clients.techsupporthub.info&port=443&secret=7sEul9Uuxh-JU67hQzcnHJV3d3cuY2xvdWRmbGFyZS5jb20=&@TelMTProto|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",
