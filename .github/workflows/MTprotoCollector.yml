@@ -3,7 +3,7 @@ name: "MTProto Collector"
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *'  # هر روز رأس ساعت ۰۰:۰۰ UTC
+    - cron: '0 0 * * *'
 
 jobs:
   update-proxies:
@@ -23,8 +23,8 @@ jobs:
 
       - name: Configure Git
         run: |
-          git config --global user.name "yebekhe"
-          git config --global user.email "yebekhe@gmail.com"
+          git config --global user.name "3yed82"
+          git config --global user.email "git82@3yed.eu.org"
 
       - name: Commit and Push if Changes Exist
         run: |
