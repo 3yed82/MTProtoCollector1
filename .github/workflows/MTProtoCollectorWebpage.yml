@@ -1,10 +1,9 @@
-# Simple workflow for deploying static content to GitHub Pages
 name: Deploy static content to Pages
 
 on:
   push:
-    branches: ["main"]  # اجرا فقط هنگام push روی شاخه main
-  workflow_dispatch:     # امکان اجرای دستی از Actions tab
+    branches: ["main"]
+  workflow_dispatch:
 
 permissions:
   contents: read
@@ -28,14 +27,10 @@ jobs:
       - name: Setup GitHub Pages
         uses: actions/configure-pages@v4
 
-      - name: Build your project (optional)
-        run: |
-          echo "✅ No build step specified. Add your build command here if needed."
-
       - name: Upload GitHub Pages artifact
-        uses: actions/upload-pages-artifact@v1
+        uses: actions/upload-pages-artifact@v2
         with:
-          path: './'  # مسیر فایل‌های نهایی برای انتشار (می‌تونی به ./dist یا ./build تغییر بدی)
+          path: './'
 
       - name: Deploy to GitHub Pages
         id: deployment
