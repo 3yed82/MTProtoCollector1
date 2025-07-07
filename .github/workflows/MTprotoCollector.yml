@@ -1,28 +1,37 @@
-name: "MTproto Collector"
+name: "MTProto Collector"
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: '*/120 * * * *'
-    
+    - cron: '0 0 * * *'  # هر روز رأس ساعت ۰۰:۰۰ UTC
+
 jobs:
-  build:
+  update-proxies:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout Code
-        uses: actions/checkout@v2
-      
-      - name: Setup PHP
+        uses: actions/checkout@v4
+
+      - name: Set up PHP
         uses: shivammathur/setup-php@v2
         with:
           php-version: '7.4'
-          
-      - name: Execute PHP script
+
+      - name: Run PHP Script
+        run: php main.php
+
+      - name: Configure Git
         run: |
-          php main.php
-          git config --global user.email "yebekhe@gmail.com"
           git config --global user.name "yebekhe"
-          git config credential.helper store
+          git config --global user.email "yebekhe@gmail.com"
+
+      - name: Commit and Push if Changes Exist
+        run: |
           git add -A
-          git commit -m "🚀 Proxies Updated - $(TZ='Asia/Tehran' date '+%Y-%m-%d %H:%M:%S')"
-          git push
+          if git diff --cached --quiet; then
+            echo "✅ No changes to commit."
+          else
+            git commit -m "🚀 Proxies Updated - $(TZ='Asia/Tehran' date '+%Y-%m-%d %H:%M:%S')"
+            git push
+          fi
