@@ -22,17 +22,18 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Repository
+      - name: Checkout code
         uses: actions/checkout@v4
 
       - name: Setup GitHub Pages
         uses: actions/configure-pages@v4
 
-      - name: Upload artifact (v4-safe)
-        uses: actions/upload-artifact@v4  # ⚠️ نسخه جدید و رسمی
+      # ✅ استفاده از v4 به جای v3 یا wrapper قدیمی
+      - name: Upload GitHub Pages artifact
+        uses: actions/upload-artifact@v4
         with:
           name: github-pages
-          path: './'  # مسیر پوشه نهایی برای دیپلوی (مثلاً ./dist برای پروژه‌های buildشده)
+          path: './'  # یا مثلاً './dist' اگر پروژه نیاز به build دارد
 
       - name: Deploy to GitHub Pages
         id: deployment
